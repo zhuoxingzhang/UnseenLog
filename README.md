@@ -7,7 +7,7 @@
 # How to run code from the command line
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zzxhelloworld/UnseenLog.git
+   git clone https://github.com/zhuoxingzhang/UnseenLog.git
    ```
 2. Navigate to the project directory:
    ```bash
